@@ -9,7 +9,7 @@ Apesar do livro prover um repositorio com a resolucao dos algoritmos em algumas 
 Clonando o repositorio do projeto
 
 ```bash
-  git clone
+  git clone git@github.com:Acauhi99/algoritms-studies.git
 ```
 
 Instalanda dependencias do projeto
